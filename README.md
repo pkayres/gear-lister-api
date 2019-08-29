@@ -5,12 +5,12 @@ Craigslist for musicians! This is a very basic C.R.U.D web app for musicians who
 
 ## Getting started
 
-This client-side project runs with a React front-end download here: 
+The client-side project runs with a JavaScript front-end download here: 
 https://github.com/pkayres/gear-lister-client
 
 
 ### This site was built with: 
-- [Ruby on Rails](https://rubyonrails.org/) The JavaScript library used
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) The JavaScript library used
 
 ### Authors: 
 
