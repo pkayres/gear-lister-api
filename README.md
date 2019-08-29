@@ -10,7 +10,7 @@ https://github.com/pkayres/gear-lister-client
 
 
 ### This site was built with: 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) The JavaScript library used
+- [Ruby on Rails](https://guides.rubyonrails.org/command_line.html) The Rails library used
 
 ### Authors: 
 
