@@ -1,24 +1,19 @@
-# README
+# GearLister 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Craigslist for musicians! This is a very basic C.R.U.D web app for musicians who would like to post their instruments for sale. 
 
-Things you may want to cover:
 
-* Ruby version
+## Getting started
 
-* System dependencies
+This client-side project runs with a React front-end download here: 
+https://github.com/pkayres/gear-lister-client
 
-* Configuration
 
-* Database creation
+### This site was built with: 
+- [Ruby on Rails](https://rubyonrails.org/) The JavaScript library used
 
-* Database initialization
+### Authors: 
 
-* How to run the test suite
+Pete Ayres - [pkayres](https://github.com/pkayres)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
